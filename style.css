@@ -1,0 +1,54 @@
+/* Estilo para o corpo do documento */
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Define a família de fontes */
+    text-align: justify; /* Alinha o texto justificado */
+}
+
+/* Estilo para a imagem de capa */
+#capa {
+    width: 900px; /* Define a largura da imagem */
+}
+
+/* Estilo para os links */
+a {
+    text-decoration: none; /* Remove a decoração do link */
+    color: #4B566A; /* Define a cor do link */
+}
+
+/* Estilo para a barra de navegação */
+.nav {
+    background-color: #C5C5B2; /* Define a cor de fundo da barra de navegação */
+    color: #4B566A; /* Define a cor do texto da barra de navegação */
+    font-weight: bold; /* Define o peso da fonte */
+    font-size: 18px; /* Define o tamanho da fonte */
+    padding: 15px; /* Adiciona preenchimento interno */
+}
+
+/* Estilo para o conteúdo principal */
+.content {
+    background-color: #E8E8D9; /* Define a cor de fundo do conteúdo principal */
+    width: 882px; /* Define a largura do conteúdo principal */
+    padding: 5px 5px 10px 13px; /* Adiciona preenchimento interno */
+}
+
+/* Estilo para o rodapé */
+.footer {
+    text-align: center; /* Alinha o texto centralizado */
+    color: black; /* Define a cor do texto */
+    font-weight: bold; /* Define o peso da fonte */
+}
+
+/* Estilo para as fotos */
+.foto {
+    border: 10px solid #C5C5B2; /* Adiciona uma borda à foto */
+}
+
+/* Estilo para a div principal */
+.main {
+    width: 900px; /* Define a largura da div principal */
+}
+
+/* Estilo para os títulos de segundo nível */
+h2 {
+    color: #828271; /* Define a cor do título */
+}
